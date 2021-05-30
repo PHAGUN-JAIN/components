@@ -1,6 +1,7 @@
 const link = "https://picsum.photos/200/300?grayscale";
 const div_style = {
-  width: "33%",
+  width: "30%",
+  height: "25rem",
   padding: "0",
   paddingBottom: "1rem",
   textAlign: "center",
@@ -10,6 +11,7 @@ const div_style = {
 };
 const img_style = {
   width: "100%",
+  height: "61%",
   borderRadius: "15px 15px 0 0"
 };
 const btn_style = {
